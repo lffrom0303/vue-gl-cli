@@ -1,0 +1,34 @@
+{
+  "name": "vue-gl-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for generating Vue 3 projects with different 3D mapping libraries",
+  "type": "module",
+  "bin": {
+    "vue-gl": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "3d",
+    "maps",
+    "gis",
+    "amap",
+    "bmap",
+    "cesium",
+    "arcgis",
+    "openlayers",
+    "threejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "inquirer": "^9.2.12",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "ora": "^7.0.1"
+  }
+} 

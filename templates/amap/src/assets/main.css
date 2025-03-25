@@ -1,0 +1,22 @@
+:root {
+  --primary-color: #4CAF50;
+  --primary-hover-color: #45a049;
+  --active-color: #2196F3;
+  --active-hover-color: #1976D2;
+  --text-color: #333;
+  --border-radius: 4px;
+  --shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+} 

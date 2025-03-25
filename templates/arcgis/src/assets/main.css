@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* ArcGIS API 样式覆盖 */
+.esri-ui-corner {
+  box-shadow: none !important;
+}
+
+.esri-expand__container {
+  background: white !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+}
+
+.esri-basemap-gallery {
+  width: 280px !important;
+} 

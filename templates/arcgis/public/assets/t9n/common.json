@@ -1,0 +1,15 @@
+{
+  "button": {
+    "clear": "清除",
+    "close": "关闭",
+    "cancel": "取消",
+    "ok": "确定"
+  },
+  "zoom": {
+    "zoomIn": "放大",
+    "zoomOut": "缩小"
+  },
+  "basemap": {
+    "toggle": "切换底图"
+  }
+} 
